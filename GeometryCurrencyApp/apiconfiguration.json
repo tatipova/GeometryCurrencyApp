@@ -1,0 +1,5 @@
+{
+  "currencyApiUrl": "http://www.cbr.ru/DailyInfoWebServ/DailyInfo.asmx",
+  "currencyCode": "USD",
+  "circleRadius": "55"
+}

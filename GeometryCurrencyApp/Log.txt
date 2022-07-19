@@ -1,0 +1,111 @@
+Information: 19.07.2022 8:57:16 https://localhost:7019/api/GeometryCurrency?xCoord=5
+Information: 19.07.2022 8:57:16 Response code: 400, response body: {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-52165bfbb389ac6ece204a1194a99c33-dbb09a2a9f6a3a8f-00","errors":{"YCoord":["A value for the 'YCoord' parameter or property was not provided."]}}
+Information: 19.07.2022 8:57:17 https://localhost:7019/api/GeometryCurrency?xCoord=5
+Information: 19.07.2022 8:57:17 Response code: 400, response body: {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-d9c0aa3524ff79b3983a1476b861cf1f-510804be59bd5035-00","errors":{"YCoord":["A value for the 'YCoord' parameter or property was not provided."]}}
+Information: 19.07.2022 9:00:33 https://localhost:7019/
+Information: 19.07.2022 9:00:33 Response code: 404, response body: 
+Information: 19.07.2022 9:00:36 https://localhost:7019/api/GeometryCurrency?xCoord=5
+Information: 19.07.2022 9:00:37 Response code: 400, response body: {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-946039862bb83baed9fc3389928381de-041449d97d5d13a2-00","errors":{"YCoord":["A value for the 'YCoord' parameter or property was not provided."]}}
+Information: 19.07.2022 9:00:37 https://localhost:7019/api/GeometryCurrency?xCoord=5
+Information: 19.07.2022 9:00:37 Response code: 400, response body: {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-844878f5c528ffdeed360815c60bb8e6-79b672c7867b1070-00","errors":{"YCoord":["A value for the 'YCoord' parameter or property was not provided."]}}
+Information: 19.07.2022 9:00:38 https://localhost:7019/api/GeometryCurrency?xCoord=5
+Information: 19.07.2022 9:00:38 Response code: 400, response body: {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-b0c126d81c94c1aa3bf1482bc50843d7-dade8387d76499f0-00","errors":{"YCoord":["A value for the 'YCoord' parameter or property was not provided."]}}
+Information: 19.07.2022 9:00:49 https://localhost:7019/api/GeometryCurrency?xCoord=5
+Information: 19.07.2022 9:00:57 Response code: 400, response body: {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-cda9de2a5da06ffc4e0b271aefc263fa-ffaeee2451e40ebc-00","errors":{"YCoord":["A value for the 'YCoord' parameter or property was not provided."]}}
+Information: 19.07.2022 9:01:47 https://localhost:7019/
+Information: 19.07.2022 9:01:47 Response code: 404, response body: 
+Information: 19.07.2022 9:01:50 https://localhost:7019/api/GeometryCurrency?xCoord=5
+Information: 19.07.2022 9:01:50 Response code: 400, response body: {"YCoord":["A value for the 'YCoord' parameter or property was not provided."]}
+Information: 19.07.2022 9:05:53 https://localhost:7019/
+Information: 19.07.2022 9:05:53 Response code: 404, response body: 
+Information: 19.07.2022 9:05:56 https://localhost:7019/api/GeometryCurrency?xCoord=5
+Information: 19.07.2022 9:05:56 Response code: 400, response body: [{"name":"YCoord","message":"A value for the 'YCoord' parameter or property was not provided."}]
+Information: 19.07.2022 9:05:57 https://localhost:7019/api/GeometryCurrency?xCoord=5
+Information: 19.07.2022 9:05:57 Response code: 400, response body: [{"name":"YCoord","message":"A value for the 'YCoord' parameter or property was not provided."}]
+Information: 19.07.2022 9:06:11 https://localhost:7019/api/GeometryCurrency?xCoord=5&yCoord=10
+Information: 19.07.2022 9:06:12 Response code: 200, response body: {"currency":56.5616,"message":null}
+Information: 19.07.2022 9:06:20 https://localhost:7019/api/GeometryCurrency?xCoord=5
+Information: 19.07.2022 9:06:20 Response code: 400, response body: [{"name":"YCoord","message":"A value for the 'YCoord' parameter or property was not provided."}]
+Information: 19.07.2022 9:08:40 https://localhost:7019/
+Information: 19.07.2022 9:08:40 Response code: 404, response body: 
+Information: 19.07.2022 9:08:44 https://localhost:7019/api/GeometryCurrency?xCoord=987944569546954
+Information: 19.07.2022 9:08:44 Response code: 400, response body: [{"message":"A value for the 'YCoord' parameter or property was not provided."}]
+Information: 19.07.2022 9:08:52 https://localhost:7019/api/GeometryCurrency?xCoord=5&yCoord=10
+Information: 19.07.2022 9:08:53 Response code: 200, response body: {"currency":56.5616,"message":null}
+Information: 19.07.2022 9:08:56 https://localhost:7019/api/GeometryCurrency?xCoord=5&yCoord=19865454654654
+Information: 19.07.2022 9:08:56 Response code: 200, response body: {"currency":null,"message":"Coordinates are not in circle"}
+Information: 19.07.2022 9:11:43 https://localhost:7019/
+Information: 19.07.2022 9:11:43 Response code: 404, response body: 
+Information: 19.07.2022 9:11:48 https://localhost:7019/api/GeometryCurrency?xCoord=5
+Information: 19.07.2022 9:11:48 Response code: 400, response body: {"message":"A value for the 'YCoord' parameter or property was not provided."}
+Information: 19.07.2022 9:11:54 https://localhost:7019/api/GeometryCurrency?xCoord=5&yCoord=19865454654654
+Information: 19.07.2022 9:11:54 Response code: 200, response body: {"currency":null,"message":"Coordinates are not in circle"}
+Information: 19.07.2022 9:11:58 https://localhost:7019/api/GeometryCurrency?xCoord=5&yCoord=198654.546.54654
+Information: 19.07.2022 9:11:58 Response code: 400, response body: {"message":"The value '198654.546.54654' is not valid for YCoord."}
+Information: 19.07.2022 9:12:08 https://localhost:7019/api/GeometryCurrency?xCoord=5&yCoord=198654.546000000000001
+Information: 19.07.2022 9:12:08 Response code: 200, response body: {"currency":null,"message":"Coordinates are not in circle"}
+Information: 19.07.2022 9:12:13 https://localhost:7019/api/GeometryCurrency?xCoord=5&yCoord=4.546000000000001
+Information: 19.07.2022 9:12:14 Response code: 200, response body: {"currency":56.5616,"message":null}
+Information: 19.07.2022 9:12:19 https://localhost:7019/api/GeometryCurrency?xCoord=5&yCoord=4.546000000099999999999999999999990000001
+Information: 19.07.2022 9:12:19 Response code: 200, response body: {"currency":56.5616,"message":null}
+Information: 19.07.2022 9:12:21 https://localhost:7019/api/GeometryCurrency?xCoord=5&yCoord=4.546000000099999999999999999999990000001
+Information: 19.07.2022 9:12:21 Response code: 200, response body: {"currency":56.5616,"message":null}
+Information: 19.07.2022 9:12:22 https://localhost:7019/api/GeometryCurrency?xCoord=5&yCoord=4.546000000099999999999999999999990000001
+Information: 19.07.2022 9:12:22 Response code: 200, response body: {"currency":56.5616,"message":null}
+Information: 19.07.2022 9:27:11 https://localhost:7019/api/GeometryCurrency?xCoord=5&yCoord=4.546000000099999999999999999999990000001
+Information: 19.07.2022 9:27:11 Response code: 200, response body: {"currency":56.5616,"message":null}
+Information: 19.07.2022 9:27:13 https://localhost:7019/api/GeometryCurrency?xCoord=5
+Information: 19.07.2022 9:27:13 Response code: 400, response body: {"message":"A value for the 'YCoord' parameter or property was not provided."}
+Information: 19.07.2022 9:42:58 https://localhost:7019/
+Information: 19.07.2022 9:42:58 Response code: 404, response body: 
+Information: 19.07.2022 9:43:00 https://localhost:7019/api/GeometryCurrency?xCoord=5
+Information: 19.07.2022 9:43:00 Response code: 400, response body: {"message":"A value for the 'YCoord' parameter or property was not provided."}
+Information: 19.07.2022 9:43:06 https://localhost:7019/api/GeometryCurrency?xCoord=5&yCoord=12
+Information: 19.07.2022 9:43:07 Response code: 200, response body: {"currency":null,"message":"Currencies are not available for 19.07.2022"}
+Information: 19.07.2022 9:43:20 https://localhost:7019/api/GeometryCurrency?xCoord=5&yCoord=-12
+Information: 19.07.2022 9:43:20 Response code: 200, response body: {"currency":null,"message":"Currencies are not available for 20.07.2022"}
+Information: 19.07.2022 9:43:23 https://localhost:7019/api/GeometryCurrency?xCoord=-5&yCoord=-12
+Information: 19.07.2022 9:43:24 Response code: 200, response body: {"currency":null,"message":"Currencies are not available for 17.07.2022"}
+Information: 19.07.2022 9:43:30 https://localhost:7019/api/GeometryCurrency?xCoord=-5&yCoord=-12
+Information: 19.07.2022 9:43:31 Response code: 200, response body: {"currency":null,"message":"Currencies are not available for 17.07.2022"}
+Information: 19.07.2022 9:43:32 https://localhost:7019/api/GeometryCurrency?xCoord=-5&yCoord=-12
+Information: 19.07.2022 9:43:32 Response code: 200, response body: {"currency":null,"message":"Currencies are not available for 17.07.2022"}
+Information: 19.07.2022 9:43:39 https://localhost:7019/api/GeometryCurrency?xCoord=-5&yCoord=-12
+Information: 19.07.2022 9:43:40 Response code: 200, response body: {"currency":null,"message":"Currencies are not available for 17.07.2022"}
+Information: 19.07.2022 9:43:52 https://localhost:7019/api/GeometryCurrency?xCoord=-5&yCoord=-12
+Information: 19.07.2022 9:43:52 Response code: 200, response body: {"currency":null,"message":"Currencies are not available for 17.07.2022"}
+Information: 19.07.2022 9:43:58 https://localhost:7019/api/GeometryCurrency?xCoord=-5&yCoord=-12
+Information: 19.07.2022 9:43:58 Response code: 200, response body: {"currency":null,"message":"Currencies are not available for 17.07.2022"}
+Information: 19.07.2022 9:43:58 https://localhost:7019/api/GeometryCurrency?xCoord=-5&yCoord=-12
+Information: 19.07.2022 9:43:58 Response code: 200, response body: {"currency":null,"message":"Currencies are not available for 17.07.2022"}
+Information: 19.07.2022 9:43:59 https://localhost:7019/api/GeometryCurrency?xCoord=-5&yCoord=-12
+Information: 19.07.2022 9:44:00 Response code: 200, response body: {"currency":null,"message":"Currencies are not available for 17.07.2022"}
+Information: 19.07.2022 9:44:05 https://localhost:7019/api/GeometryCurrency?xCoord=-5&yCoord=-12
+Information: 19.07.2022 9:44:24 https://localhost:7019/api/GeometryCurrency?xCoord=-5&yCoord=-12
+Information: 19.07.2022 9:44:25 https://localhost:7019/
+Information: 19.07.2022 9:44:25 Response code: 404, response body: 
+Information: 19.07.2022 9:44:31 Response code: 200, response body: {"currency":null,"message":"Currencies are not available for 17.07.2022"}
+Information: 19.07.2022 9:44:34 https://localhost:7019/api/GeometryCurrency?xCoord=-5&yCoord=-12
+Information: 19.07.2022 9:44:37 Response code: 200, response body: {"currency":null,"message":"Currencies are not available for 17.07.2022"}
+Information: 19.07.2022 9:44:49 https://localhost:7019/api/GeometryCurrency?xCoord=-5&yCoord=-12
+Information: 19.07.2022 9:44:49 Response code: 200, response body: {"currency":null,"message":"Currencies are not available for 17.07.2022"}
+Information: 19.07.2022 9:44:54 https://localhost:7019/api/GeometryCurrency?xCoord=-5&yCoord=-12
+Information: 19.07.2022 9:45:44 Response code: 200, response body: {"currency":null,"message":"Currencies are not available for 17.07.2022"}
+Information: 19.07.2022 9:49:11 https://localhost:7019/
+Information: 19.07.2022 9:49:11 Response code: 404, response body: 
+Information: 19.07.2022 9:49:14 https://localhost:7019/api/GeometryCurrency?xCoord=-5&yCoord=-12
+Information: 19.07.2022 9:49:21 Response code: 200, response body: {"currency":57.8323,"message":null}
+Information: 19.07.2022 9:49:23 https://localhost:7019/api/GeometryCurrency?xCoord=-5&yCoord=-12
+Information: 19.07.2022 9:49:58 Response code: 200, response body: {"currency":57.8323,"message":null}
+Information: 19.07.2022 9:49:58 https://localhost:7019/api/GeometryCurrency?xCoord=10&yCoord=20
+Information: 19.07.2022 9:49:58 https://localhost:7019/api/GeometryCurrency?xCoord=10&yCoord=20
+Information: 19.07.2022 9:49:58 Response code: 200, response body: 
+Information: 19.07.2022 9:49:58 Response code: 200, response body: {"currency":56.5616,"message":null}
+Information: 19.07.2022 10:10:25 https://localhost:7019/
+Information: 19.07.2022 10:10:25 Response code: 404, response body: 
+Information: 19.07.2022 10:10:35 https://localhost:7019/api/GeometryCurrency?xCoord=10&yCoord=20
+Information: 19.07.2022 10:10:36 Response code: 200, response body: {"currency":56.5616,"message":null}
+Information: 19.07.2022 10:14:01 https://localhost:7019/api/GeometryCurrency?xCoord=10
+Information: 19.07.2022 10:14:01 Response code: 400, response body: {"message":"A value for the 'YCoord' parameter or property was not provided."}
+Information: 19.07.2022 10:14:35 https://localhost:7019/api/GeometryCurrency?xCoord=999&yCoord=20
+Information: 19.07.2022 10:14:35 Response code: 200, response body: {"currency":null,"message":"Coordinates are not in circle"}
